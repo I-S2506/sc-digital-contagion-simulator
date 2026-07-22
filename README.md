@@ -231,7 +231,7 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 👤 Contact
 
-**Repository:** [github.com/amitverma-cf/sc-digital-contagion-simulator](https://github.com/amitverma-cf/sc-digital-contagion-simulator)  
+**Repository:** [github.com/amitverma-cf/sc-digital-contagion-simulator](https://github.com/amitverma-cf/sc-digital-contagion-simulator) (Main Repository, Please look at Research Paper for team members)
 **Status:** ✅ Complete (Phases 0-7 implemented and validated)
 
 For questions about methodology or implementation, see `plan/implementation_report.md` or open an issue.
